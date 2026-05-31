@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.0",
-  "buildNumber": 1,
+  "latestVersion": "1.0.1",
+  "buildNumber": 2,
   "apkUrl": "https://github.com/iamankoo/Document-Saathi-Updates/releases/download/v1.0.0/app-release.apk",
-  "releaseNotes": "Initial production release"
+  "releaseNotes": "Update test"
 }
