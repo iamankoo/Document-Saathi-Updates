@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.3",
+  "latestVersion": "1.0.4",
   "buildNumber": 4,
-  "apkUrl": "https://github.com/iamankoo/Document-Saathi-Updates/releases/download/v1.0.3/app-release.apk",
-  "releaseNotes": "Fixed session restore behavior and vault persistence"
+  "apkUrl": "https://github.com/iamankoo/Document-Saathi-Updates/releases/download/v1.0.4/app-release.apk",
+  "releaseNotes": "Supabase cloud sync integration, upload improvements, family/member mapping fixes, storage integration, bug fixes and stability improvements."
 }
