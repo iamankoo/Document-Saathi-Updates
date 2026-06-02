@@ -1,8 +1,7 @@
 {
-"version": "1.0.6",
-"version_code": 6,
-"apk_url": "https://github.com/iamankoo/Document-Saathi-Updates/releases/download/v1.0.6/app-release.apk",
-"release_notes": [
+"latestVersion": "1.0.6",
+"apkUrl": "https://github.com/iamankoo/Document-Saathi-Updates/releases/download/v1.0.6/app-release.apk",
+"releaseNotes": [
 "PDF viewing and downloading fixed",
 "Android 16 compatibility improvements",
 "Secure signed URL document access",
@@ -13,5 +12,6 @@
 "Cleaner member selection screen",
 "Download experience improvements",
 "Stability and bug fixes"
-]
+],
+"forceUpdate": false
 }
