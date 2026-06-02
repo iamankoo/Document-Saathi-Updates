@@ -1,17 +1,21 @@
 {
-"latestVersion": "1.0.6",
-"apkUrl": "https://github.com/iamankoo/Document-Saathi-Updates/releases/download/v1.0.6/app-release.apk",
-"releaseNotes": [
-"PDF viewing and downloading fixed",
-"Android 16 compatibility improvements",
-"Secure signed URL document access",
-"Optional document naming during upload",
-"Delete permission controls",
-"Shared Pradhan Ji documents across vaults",
-"Vault menu and account improvements",
-"Cleaner member selection screen",
-"Download experience improvements",
-"Stability and bug fixes"
-],
-"forceUpdate": false
+  "latestVersion": "1.0.7",
+  "apkUrl": "https://github.com/iamankoo/Document-Saathi-Updates/releases/download/v1.0.7/app-release.apk",
+  "releaseNotes": [
+    "Smart document scanning with crop and enhancement tools",
+    "Multi-page scanning with PDF generation",
+    "Front and back document collage support",
+    "Image to PDF conversion",
+    "Save scanned documents as PDF or Images",
+    "Document sharing support",
+    "Family announcements system",
+    "Private comments, requests and reminders",
+    "Real-time in-app notification banners",
+    "Images now save to Gallery and documents to Downloads",
+    "Improved document loading reliability",
+    "Cleaner document action menu",
+    "Better filename visibility",
+    "Scan and Upload workflow improvements",
+    "Performance improvements and bug fixes"
+  ]
 }
