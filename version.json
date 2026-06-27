@@ -1,21 +1,20 @@
+
 {
-  "latestVersion": "1.0.7",
-  "apkUrl": "https://github.com/iamankoo/Document-Saathi-Updates/releases/download/v1.0.7/app-release.apk",
+  "latestVersion": "1.1.0",
+  "apkUrl": "https://github.com/iamankoo/Document-Saathi-Updates/releases/latest/download/app-release.apk",
   "releaseNotes": [
-    "Smart document scanning with crop and enhancement tools",
-    "Multi-page scanning with PDF generation",
-    "Front and back document collage support",
-    "Image to PDF conversion",
-    "Save scanned documents as PDF or Images",
-    "Document sharing support",
-    "Family announcements system",
-    "Private comments, requests and reminders",
-    "Real-time in-app notification banners",
-    "Images now save to Gallery and documents to Downloads",
-    "Improved document loading reliability",
-    "Cleaner document action menu",
-    "Better filename visibility",
-    "Scan and Upload workflow improvements",
-    "Performance improvements and bug fixes"
+    "Firebase OTP Authentication",
+    "Admin Approval System",
+    "Secure Login",
+    "Multi Image Upload",
+    "Collage Maker",
+    "Image to PDF",
+    "Birthday Celebrations",
+    "Marriage Anniversary Celebrations",
+    "Smart Notification Improvements",
+    "Family Event Calendar",
+    "Improved Security",
+    "Bug Fixes",
+    "Performance Improvements"
   ]
 }
